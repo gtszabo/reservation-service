@@ -1,0 +1,10 @@
+{
+  "simulation": "BasicSimulation",
+  "simulationId": "basicsimulation-20221016215713631",
+  "start": 1665957434879,
+  "description": "",
+  "scenarios": ["REST Client"],
+  "assertions": [
+
+  ]
+}
